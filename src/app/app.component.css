@@ -1,0 +1,7 @@
+.image {
+  height: 40em;
+  background-size: cover;
+  width: auto;
+  background-image: url('https://www.google.com/search?q=climate+images&sxsrf=ALeKk01f0PzKawpc_ThtrFM-oo1X2yQcYg:1593834893908&source=lnms&tbm=isch&sa=X&ved=2ahUKEwjsgrrV2bLqAhUX73MBHc1WDMIQ_AUoAXoECA4QAw&biw=1536&bih=722#imgrc=ghwKPyib3CV9nM');
+  background-position: 50% 50%;
+}
